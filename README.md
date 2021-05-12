@@ -35,3 +35,4 @@
 
 - [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175) - _Toast_
 - [Go 언어로 오픈소스 배송조회 서비스 만들기](https://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html) - _subicura_
+- [오픈소스 개발 - behind the scenes](https://www.sosconhistory.net/soscon2018/pdf/day1_1630_3.pdf) - _박재성_
